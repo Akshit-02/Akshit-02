@@ -4,7 +4,7 @@
 
 ### Full Stack Developer Helping Startups Build Scalable Web & Mobile Products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=React+Native+Developer;Full+Stack+Engineer;Node.js+%7C+AWS+%7C+AI+Automation;2x+AWS+Certified;Building+Products+That+Scale" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;React+Native+Developer;Node.js+%7C+AWS+%7C+AI+Automation;2x+AWS+Certified;Building+Products+That+Scale" />
 
 <br/>
 
